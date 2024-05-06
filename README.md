@@ -1,16 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DragonDagger
+Hi, my name is DragonDagger
 ====================================================================================================================================
-
-Full-Stack Developer
---------------------
-
-I'm a Full-stack Developer, working in Web Development and Education. I enjoy solving real-world software problems and helping others improve in their understanding of code.
-
-* 🌍  I'm based in Northland, New Zealand
-* ✉️  You can contact me at [robotrealguy@gmail.com](mailto:robotrealguy@gmail.com)
-* 🚀  I'm currently working on [OSRS Fishing Bot](http://github.com/DragonDagger/fishing-bot)
-* 🧠  I'm learning Tailwind, Next.js, Firebase, AWS, Typescript.
-* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
@@ -33,16 +22,3 @@ I'm a Full-stack Developer, working in Web Development and Education. I enjoy so
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/DragonDagger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DragonDagger"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonDagger&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/DragonDagger" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDagger&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
